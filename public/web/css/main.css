@@ -254,6 +254,7 @@ div.private{font-size: 18px; line-height: 18px; margin-top: 20px;}
 }
 
 .options-box {
+  display: none;
   position: relative;
   margin: 15px 0;
   padding: 39px 19px 14px;
